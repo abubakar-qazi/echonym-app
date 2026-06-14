@@ -123,4 +123,4 @@ Available on Google Play Store:
 
 Built solo by **Abubakar Qazi** — Flutter developer based in Islamabad, Pakistan.
 
-[GitHub](https://github.com/abubakar-qazi) · [LinkedIn](https://linkedin.com/in/abubakar-qazi-6b9934311)
+[[LinkedIn](https://linkedin.com/in/abubakar-qazi-6b9934311)
